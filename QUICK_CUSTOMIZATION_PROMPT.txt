@@ -1,0 +1,60 @@
+I need to customize this landing page template for my product/service. Here are my details:
+
+**Product Information:**
+- Product Name: [Your Product Name]
+- Tagline: [Your Product Tagline/Slogan]
+- Description: [Brief description of what your product does]
+- Industry: [Your industry/sector - e.g., SaaS, E-commerce, Mobile App, Software]
+
+**Contact Information:**
+- Email: [your-email@domain.com]
+- Phone: [+1 (555) 123-4567]
+- Address: [Your business address]
+- Website: [https://yourwebsite.com]
+
+**Social Media (optional):**
+- Facebook: [https://facebook.com/yourproduct]
+- Twitter: [https://twitter.com/yourproduct]
+- LinkedIn: [https://linkedin.com/company/yourproduct]
+- Instagram: [https://instagram.com/yourproduct]
+
+**Features (4-6 main features):**
+1. [Feature 1 Name] - [Brief description]
+2. [Feature 2 Name] - [Brief description]
+3. [Feature 3 Name] - [Brief description]
+4. [Feature 4 Name] - [Brief description]
+5. [Feature 5 Name] - [Brief description] (optional)
+6. [Feature 6 Name] - [Brief description] (optional)
+
+**Benefits (3 main benefits):**
+1. [Benefit 1] - [Description] - [Statistic]
+2. [Benefit 2] - [Description] - [Statistic]
+3. [Benefit 3] - [Description] - [Statistic]
+
+**Pricing (3 packages):**
+- Starter Package: $[price]/month - [What's included]
+- Professional Package: $[price]/month - [What's included]
+- Enterprise Package: $[price]/month - [What's included]
+
+**Social Proof Stats:**
+- [Number] Happy Customers
+- [Percentage] Uptime
+- [Number] Countries
+- [Text] Support
+
+**Google Reviews (optional):**
+- Google Place ID: [Your Google Place ID]
+- Google API Key: [Your Google API Key]
+
+**Additional Requirements:**
+- Logo URL: [https://yourdomain.com/logo.png]
+- Brand Colors: Primary: [Your primary color], Secondary: [Your secondary color]
+- Special Features: [Any specific features or sections you want]
+
+Please update the template with this information and ensure all content reflects my product. Make sure to:
+1. Update all product information in the config file
+2. Customize features, benefits, and pricing
+3. Update social proof statistics
+4. Ensure all navigation and links work properly
+5. Maintain the professional design and animations
+6. Keep the responsive design intact
